@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Courses</string>
+    <string name="brimstone">Brimstone</string>
+    <string name="viper">Viper</string>
+    <string name="omen">Omen</string>
+    <string name="killjoy">Killjoy</string>
+    <string name="cypher">Cypher</string>
+    <string name="sova">Sova</string>
+    <string name="sage">Sage</string>
+    <string name="phoenix">Phoenix</string>
+    <string name="jett">Jett</string>
+    <string name="reyna">Reyna</string>
+    <string name="raze">Raze</string>
+    <string name="breach">Breach</string>
+    <string name="skye">Skye</string>
+    <string name="yoru">Yoru</string>
+    <string name="astra">Astra</string>
+    <string name="kayo">KAY/O</string>
+    <string name="chamber">Chamber</string>
+    <string name="neon">Neon</string>
+    <string name="fade">Fade</string>
+    <string name="harbor">Harbor</string>
+    <string name="gekko">Gekko</string>
+    <string name="deadlock">Deadlock</string>
+    <string name="iso">Iso</string>
+    <string name="clove">Clove</string>
+    <string name="vyse">Clove</string>
+</resources>
